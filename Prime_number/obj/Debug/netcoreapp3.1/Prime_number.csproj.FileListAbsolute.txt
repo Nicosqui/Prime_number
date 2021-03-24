@@ -1,0 +1,13 @@
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Prime_number\Prime_number\bin\Debug\netcoreapp3.1\Prime_number.exe
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Prime_number\Prime_number\bin\Debug\netcoreapp3.1\Prime_number.deps.json
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Prime_number\Prime_number\bin\Debug\netcoreapp3.1\Prime_number.runtimeconfig.json
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Prime_number\Prime_number\bin\Debug\netcoreapp3.1\Prime_number.runtimeconfig.dev.json
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Prime_number\Prime_number\bin\Debug\netcoreapp3.1\Prime_number.dll
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Prime_number\Prime_number\bin\Debug\netcoreapp3.1\Prime_number.pdb
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Prime_number\Prime_number\obj\Debug\netcoreapp3.1\Prime_number.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Prime_number\Prime_number\obj\Debug\netcoreapp3.1\Prime_number.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Prime_number\Prime_number\obj\Debug\netcoreapp3.1\Prime_number.AssemblyInfo.cs
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Prime_number\Prime_number\obj\Debug\netcoreapp3.1\Prime_number.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Prime_number\Prime_number\obj\Debug\netcoreapp3.1\Prime_number.dll
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Prime_number\Prime_number\obj\Debug\netcoreapp3.1\Prime_number.pdb
+D:\UNIVERSIDAD\Programación 3\Ejercicios\Prime_number\Prime_number\obj\Debug\netcoreapp3.1\Prime_number.genruntimeconfig.cache
